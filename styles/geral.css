@@ -1,0 +1,12 @@
+:root{
+    --escuro: #302727;
+    --vermelho: #ba2d2d;
+    --laranja: #f2511b;
+    --laranja2: #f2861b;
+    --amarelo: #c7c730;
+}
+
+header,footer{
+    background-color: #ba2d2d!important;
+    color: white!important;
+}
