@@ -97,3 +97,7 @@ th,td{
 th{
     background-color:#ba2d2d;
 }
+th:empty{
+    border: none;
+    background-color: transparent;/*ficar transparente*/
+}
